@@ -1,1 +1,3 @@
-fix bug1
+void main(List<String> args) {
+  //fix bug2
+}
